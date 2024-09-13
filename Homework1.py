@@ -15,7 +15,6 @@ class Solution1:
 # Question 2:
 # Implement the Sieve of Eratosthenes and use it to solve this problem
 # https://leetcode.com/problems/count-primes/description/
-
 class Solution2:
     def countPrimes(self, n: int) -> int:
         if n <= 2:
